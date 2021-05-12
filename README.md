@@ -1,2 +1,7 @@
 # react-insta-clone
-Instagram web clone in react, firebase
+
+Instagram web clone using:
+
+- React
+- Firebase
+- Tailwind
